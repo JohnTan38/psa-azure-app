@@ -15,7 +15,7 @@
             "value": "https://github.com/JohnTan38/psa-azure-app.git"
         },
         "repoBranch": {
-            "value": "main"
+            "value": "master"
         }
     }
 }
