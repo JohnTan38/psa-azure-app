@@ -6,7 +6,7 @@
             "value": "psa-azure-app"
         },
         "sku": {
-            "value": "B2"
+            "value": "B3"
         },
         "linuxFxVersion": {
             "value": "PYTHON|3.10"
